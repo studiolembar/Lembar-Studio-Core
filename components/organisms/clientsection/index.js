@@ -9,19 +9,18 @@ export default function Client() {
                     </p>
                 </div>
             </div>
-            {/* Slider content */}
             <div className="row d-flex slider">
                 <div
                     className="col-lg-2 m-3 d-flex align-items-center shadow client-border"
                 >
-                    <img className="w-50 mx-auto" src="assets/images/dummy/kai.png" alt="" />
+                    <img className="w-50 mx-auto" src="assets/images/dummy/kai.webp" alt="" />
                 </div>
                 <div
                     className="col-lg-2 m-3 d-flex align-items-center shadow client-border"
                 >
                     <img
                         className="w-75 mx-auto"
-                        src="assets/images/dummy/pariwisata-medan.png"
+                        src="assets/images/dummy/pariwisata-medan.webp"
                         alt=""
                     />
                 </div>
@@ -30,7 +29,7 @@ export default function Client() {
                 >
                     <img
                         className="w-75 mx-auto"
-                        src="assets/images/dummy/kementrian-kesehatan.png"
+                        src="assets/images/dummy/kementrian-kesehatan.webp"
                         alt=""
                     />
                 </div>
@@ -39,7 +38,7 @@ export default function Client() {
                 >
                     <img
                         className="w-75 mx-auto"
-                        src="assets/images/dummy/pariwisata-sumut.png"
+                        src="assets/images/dummy/pariwisata-sumut.webp"
                         alt=""
                     />
                 </div>
@@ -48,7 +47,7 @@ export default function Client() {
                 >
                     <img
                         className="w-75 mx-auto"
-                        src="assets/images/dummy/wonderfull-indonesia.png"
+                        src="assets/images/dummy/wonderfull-indonesia.webp"
                         alt=""
                     />
                 </div>
@@ -57,7 +56,7 @@ export default function Client() {
                 >
                     <img
                         className="w-50 mx-auto"
-                        src="assets/images/dummy/kementrian-desa.png"
+                        src="assets/images/dummy/kementrian-desa.webp"
                         alt=""
                     />
                 </div>

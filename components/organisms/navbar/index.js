@@ -1,9 +1,15 @@
 export default function Navbar() {
     return (
         <header className="sticky-top">
-            <nav className="navbar navbar-expand-lg navbar-dark bg-main">
+            <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-main">
                 <div className="container">
-                    <a className="navbar-brand text-pink" href="#"> Lembar | Studio</a>
+                    <a className="navbar-brand" href="#"
+                    ><img
+                            className="brand-image"
+                            src="./assets/images/page/brand.png"
+                            alt="brand"
+                        />Lembar Studio</a
+                    >
                     <button
                         className="navbar-toggler"
                         type="button"
@@ -16,7 +22,9 @@ export default function Navbar() {
                         <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNav">
-                        <ul className="navbar-nav mx-auto w-50 justify-content-between">
+                        <ul
+                            className="navbar-nav mx-lg-auto w-50 justify-content-start justify-content-lg-between"
+                        >
                             <li className="nav-item">
                                 <a className="nav-link active" aria-current="page" href="#">Home</a>
                             </li>

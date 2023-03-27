@@ -14,12 +14,12 @@ export default function Service() {
                     </div>
                 </div>
                 <img
-                    src="assets/images/page/volcadot.png"
+                    src="assets/images/page/volcadot.webp"
                     className="image-services-left d-none d-md-block"
                     alt=""
                 />
                 <img
-                    src="assets/images/page/volcadot.png"
+                    src="assets/images/page/volcadot.webp"
                     className="image-services-right d-none d-md-block"
                     alt=""
                 />
@@ -34,8 +34,8 @@ export default function Service() {
                             <p className="service-item-text-title">Landing Page</p>
                             <p className="service-item-text-subtitle">
                                 Kami akan membuat landing page yang indah, mudah digunakan, dan
-                                membantu Anda mencapai tujuan bisnis Anda, dengan bantuan tim
-                                kami yang berpengalaman.
+                                membantu Anda mencapai tujuan. Dapat disesuaikan dengan
+                                kebutuhan Anda, baik untuk usaha maupun personal.
                             </p>
                         </div>
                     </div>
@@ -43,14 +43,14 @@ export default function Service() {
                         className="col-11 col-md-7 col-lg-5 d-flex align-items-center shadow service-item"
                     >
                         <div className="service-item-icon">
-                            <i className="fa-regular fa-building"></i>
+                            <i className="fa-solid fa-calendar-check"></i>
                         </div>
                         <div className="service-item-text">
-                            <p className="service-item-text-title">Company Profile</p>
+                            <p className="service-item-text-title">Digital Invitation</p>
                             <p className="service-item-text-subtitle">
-                                Dengan pengalaman dan keahlian kami dalam bidang industri, kami
-                                siap membantu bisnis Anda tumbuh dan berkembang dan meningkatkan
-                                jumlah pelanggan anda
+                                Jaman semakin modern, begitu juga undangan. Buatlah undangan
+                                terbaik Anda di sini. Sebuah undangan yang akan dikenang
+                                sepanjang masa oleh orang yang melihatnya.
                             </p>
                         </div>
                     </div>
@@ -61,26 +61,12 @@ export default function Service() {
                             <i className="fa-brands fa-chrome"></i>
                         </div>
                         <div className="service-item-text">
-                            <p className="service-item-text-title">Web Development</p>
+                            <p className="service-item-text-title">Web / mobile apps</p>
                             <p className="service-item-text-subtitle">
-                                Kami dapat membuat website yang sesuai dengan kebutuhan dan
-                                tujuan Anda, mulai dari e-commerce, portfolio, blog, hingga
-                                website institusional.
-                            </p>
-                        </div>
-                    </div>
-                    <div
-                        className="col-11 col-md-7 col-lg-5 d-flex align-items-center shadow service-item"
-                    >
-                        <div className="service-item-icon">
-                            <i className="bi bi-android2"></i>
-                        </div>
-                        <div className="service-item-text">
-                            <p className="service-item-text-title">Mobile Apps</p>
-                            <p className="service-item-text-subtitle">
-                                Aplikasi anda akan memiliki fitur canggih dan antarmuka yang
-                                intuitif, untuk membantu Anda menjalankan bisnis Anda dengan
-                                mudah, di mana saja dan kapan saja.
+                                Mudahkan diri Anda dengan membuat aplikasi di sini. Buatlah
+                                aplikasi yang dapat membantu inventaris barang Anda atau
+                                aplikasi pendaftaran event maupun sekolah atau aplikasi lain
+                                yang ada di pikiran Anda.
                             </p>
                         </div>
                     </div>
@@ -91,11 +77,11 @@ export default function Service() {
                             <i className="fa-solid fa-person-chalkboard"></i>
                         </div>
                         <div className="service-item-text">
-                            <p className="service-item-text-title">Web Consultant</p>
+                            <p className="service-item-text-title">Consultant / Mentoring</p>
                             <p className="service-item-text-subtitle">
-                                Dapatkan solusi terbaik untuk bisnis Anda dengan tim konsultan
-                                kami. Kami memahami dunia digital dan siap membantu Anda
-                                mengatasi masalah dan mencapai tujuan bisnis Anda.
+                                Jika sudah punya aplikasi dan ingin di-maintain dengan baik,
+                                Anda dapat menghubungi kami. Kami akan membantu Anda terkait
+                                dengan aplikasi-aplikasi yang sudah Anda punya.
                             </p>
                         </div>
                     </div>

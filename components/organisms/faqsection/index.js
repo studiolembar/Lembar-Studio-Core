@@ -15,7 +15,7 @@ export default function Faq() {
                     <div className="col-12 col-md-4 col-lg-4 d-none d-md-block">
                         <img
                             className="w-100 faq-image"
-                            src="assets/images/page/faq-image.png"
+                            src="assets/images/page/faq-image.webp"
                             alt=""
                         />
                     </div>

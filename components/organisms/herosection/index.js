@@ -5,8 +5,8 @@ export default function Hero() {
                 <div className="row d-flex align-items-center">
                     <div className="col-12 col-md-6 col-lg-5">
                         <h1 className="hero-title">
-                            BUAT BISNISMU LEBIH
-                            <span>MENARIK</span> BERSAMA KAMI
+                            Buat bisnismu lebih
+                            <span>menarik</span> bersama kami
                         </h1>
                         <p className="hero-subtitle text-dark">
                             Melayani Pembuatan Aplikasi Website dan Landing Page untuk jangkau
@@ -22,7 +22,7 @@ export default function Hero() {
                         <div className="image-hero">
                             <img
                                 className="w-125"
-                                src="/assets/images/page/hero-image.png"
+                                src="assets/images/page/hero-image.webp"
                                 alt="hero-image"
                             />
                         </div>

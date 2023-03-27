@@ -61,7 +61,7 @@ export default function Contact() {
                     <div className="col-8 col-md-3 col-lg-6 d-none d-md-block">
                         <img
                             className="contact-image"
-                            src="assets/images/page/contact-image.png"
+                            src="assets/images/page/contact-image.webp"
                             alt="contact-image"
                         />
                     </div>

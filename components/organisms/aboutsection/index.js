@@ -6,15 +6,19 @@ export default function About() {
                     <div className="col-12 col-md-4 col-lg-6 d-none d-md-block">
                         <img
                             className="about-image"
-                            src="assets/images/page/about-image.png"
+                            src="assets/images/page/about-image.webp"
                             alt="about-image"
                         />
                     </div>
                     <div className="col-12 col-md-8 col-lg-6 about-right">
                         <p className="about-right-title">about us</p>
-                        <span className="navbar-brand me-0">Lembar | Studio</span>
-                        adalah Perusahaan Startup digital yang bergerak dibidang jasa
-                        pembuatan website dan solusi digital.
+                        <p className="about-right-text">
+                            Lembar Studio adalah sebuah startup yang bergerak di bidang jasa
+                            pembuatan aplikasi website dan landing page. Studio Lembar
+                            melayani pembuatan aplikasi berbasis website maupun mobile serta
+                            memberikan solusi terhadap masalah terkait dengan aplikasi yang
+                            sudah ada.
+                        </p>
                         <div className="d-flex mt-2">
                             <i className="bi bi-check-circle-fill"></i>
                             <p>
