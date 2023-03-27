@@ -1,19 +1,39 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
-import styles from './page.module.css'
-
-const inter = Inter({ subsets: ['greek'] })
+import Navbar from '../../components/organisms/navbar';
+import Footer from '../../components/organisms/footer';
+import Hero from '../../components/organisms/herosection';
+import Client from '../../components/organisms/clientsection';
+import About from '../../components/organisms/aboutsection';
+import Service from '../../components/organisms/servicesection';
+import Faq from '../../components/organisms/faqsection';
+import Contact from '../../components/organisms/contactsection';
 
 export default function Home() {
   return (
-    <main className={styles.main}>
+    <>
+      {/* Navbar */}
+      <Navbar />
 
-      <div className={styles.center}>
-        <div className={styles.description}>
-          <p className="text-warning">Welcome To <code className={styles.code}>Lembar Studio</code> Cuii !</p>
-        </div>
-      </div>
+      {/* Hero section */}
+      <Hero />
 
-    </main>
+      {/* client section */}
+      <Client />
+
+      {/* about section */}
+      <About />
+
+      {/* service section */}
+      <Service />
+
+      {/* faq section */}
+      <Faq />
+
+      {/* contact section */}
+      <Contact />
+
+
+      {/* Footer */}
+      <Footer />
+    </>
   )
 }
