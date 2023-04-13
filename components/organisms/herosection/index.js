@@ -6,7 +6,7 @@ export default function Hero() {
                     <div className="col-12 col-md-6 col-lg-5">
                         <h1 className="hero-title">
                             Buat bisnismu lebih
-                            <span>menarik</span> bersama kami
+                            <span> menarik</span> bersama kami
                         </h1>
                         <p className="hero-subtitle text-dark">
                             Melayani Pembuatan Aplikasi Website dan Landing Page untuk jangkau

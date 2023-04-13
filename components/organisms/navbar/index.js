@@ -1,7 +1,7 @@
 export default function Navbar() {
     return (
-        <header className="sticky-top">
-            <nav className="navbar navbar-expand-lg navbar-dark bg-main">
+        <header className="sticky-top mb-5 pb-3">
+            <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-main">
                 <div className="container">
                     <a className="navbar-brand" href="#"
                     ><img
